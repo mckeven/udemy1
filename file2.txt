@@ -1,1 +1,2 @@
 This is file2.txt
+line added in local git repo
